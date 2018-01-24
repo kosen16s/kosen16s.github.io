@@ -95,7 +95,7 @@ section h2{
 	font-size: 22px;
 	font-weight:normal;
 	text-align: center;
-	background: url(../images/borderBlack.png) repeat-x 0 50%;
+	background: url(../img/borderBlack.png) repeat-x 0 50%;
 	background-size: 1px 1px;
 }
 
@@ -166,7 +166,7 @@ section h2 span {
 }
 
 #sec04_02{
-	background: url(../images/bgSec04.jpg) no-repeat 100% 100% fixed;
+	background: url(../img/bgSec04.jpg) no-repeat 100% 100% fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
