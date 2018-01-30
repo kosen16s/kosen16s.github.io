@@ -42,6 +42,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 
 #header h1{
 	padding-top: 60px;
+	font-size: large;
 }
 
 #mainnav a{
@@ -77,6 +78,15 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 
 /* 共通
 ------------------------------------------------------------*/
+.suvnav{
+	font-weight:normal;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+h1{
+	text-align: center;
+}
 
 img{
 	max-width: 100%;
