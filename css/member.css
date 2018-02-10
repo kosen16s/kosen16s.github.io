@@ -14,3 +14,7 @@ h1,h2,h3,h4,h5,h6{font-size:100%;}
 img,abbr,acronym,fieldset{border:0;}
 
 /* member.htmlに追加したいスタイルがあればココより下に書いてください */
+.ico{
+    max-width: 200px ;
+    max-height: 200px ;
+}
